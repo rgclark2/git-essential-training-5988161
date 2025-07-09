@@ -1,1 +1,1 @@
-This is a new line.  changed by me. New Text
+This is a new line.  changed by me.  
